@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ALexey Fedyunin
+- 👋 Hi, I’m Alexey Fedyunin
 - 👀 I’m interested in JS, React, NodeJS, Python
 - 🌱 I’m currently learning JS, Python
 - 💞️ I’m looking to collaborate on React
